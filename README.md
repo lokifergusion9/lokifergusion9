@@ -107,16 +107,18 @@ lokesh = AIEngineer(
 
 </div>
 
-## 🏙️ 3D Contribution Skyline
+## 🏔️ Beyond Code
+
+- 🏔️ **Deputy Secretary · Himalayan Explorers' Club** — led a 13-member expedition to **5,500m** with zero incidents
+- 🏐 **Secretary & Captain · Volleyball** — IIT Roorkee, **3 Inter-IIT medals**
+- 🎭 **Founding Member · Rajasthan Cultural Association** — events for **400+ people**
+
+## 🏆 Achievements
 
 <div align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/lokifergusion9/lokifergusion9/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" />
-</div>
-
-## 📈 Full Metrics
-
-<div align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/lokifergusion9/lokifergusion9/main/github-metrics.svg" alt="metrics" />
+  <img src="https://img.shields.io/badge/%F0%9F%A5%87_Best_Sportsman-IIT_Roorkee_2024--25-F72585?style=for-the-badge&labelColor=1a012b" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%85_Medals-50%2B-7209B7?style=for-the-badge&labelColor=1a012b" />
+  <img src="https://img.shields.io/badge/%F0%9F%A5%88_Inter--IIT-2_Silver_%C2%B7_1_Bronze-FF8C00?style=for-the-badge&labelColor=1a012b" />
 </div>
 
 <!-- ░░░ FOOTER BANNER ░░░ -->
