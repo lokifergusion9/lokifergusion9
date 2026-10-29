@@ -1,5 +1,5 @@
 <!-- ░░░ HEADER BANNER ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6,2,18&height=210&section=header&text=Lokesh%20Kumar&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Building%20Agentic%20AI%20%C2%B7%20MCP%20%C2%B7%20RAG%20Systems&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6,2,18&height=210&section=header&text=Lokesh%20Kumar&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Building%20Agentic%20AI%20%C2%B7%20MCP%20%C2%B7%20RAG%20Systems&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 
 <div align="center">
 
@@ -120,4 +120,4 @@ lokesh = AIEngineer(
 </div>
 
 <!-- ░░░ FOOTER BANNER ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,2,6,12,24&height=140&section=footer&text=Let%27s%20build%20something%20at%20scale&fontSize=22&fontColor=ffffff" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,2,6,12,24&height=140&section=footer&text=Let%27s%20build%20something%20at%20scale&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" />
