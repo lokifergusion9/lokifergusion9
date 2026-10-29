@@ -1,5 +1,5 @@
 <!-- ░░░ HEADER BANNER ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6,2,18&height=210&section=header&text=Lokesh%20Kumar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20Agentic%20AI%20%C2%B7%20MCP%20%C2%B7%20RAG%20Systems&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6,2,18&height=210&section=header&text=Lokesh%20Kumar&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Building%20Agentic%20AI%20%C2%B7%20MCP%20%C2%B7%20RAG%20Systems&descAlignY=58&descSize=18" alt="header" />
 
 <div align="center">
 
@@ -51,10 +51,6 @@ lokesh = AIEngineer(
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
 **ML / Deep Learning**
@@ -87,12 +83,10 @@ lokesh = AIEngineer(
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 **Data Stores**
@@ -125,13 +119,5 @@ lokesh = AIEngineer(
   <img width="95%" src="https://raw.githubusercontent.com/lokifergusion9/lokifergusion9/main/github-metrics.svg" alt="metrics" />
 </div>
 
-<!-- ░░░ CONTRIBUTION SNAKE ░░░ -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lokifergusion9/lokifergusion9/output/github-snake-dark.svg" />
-    <img width="95%" src="https://raw.githubusercontent.com/lokifergusion9/lokifergusion9/output/github-snake.svg" alt="contribution snake" />
-  </picture>
-</div>
-
 <!-- ░░░ FOOTER BANNER ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,2,6,12,24&height=140&section=footer&text=Let%27s%20build%20something%20at%20scale&fontSize=22&fontColor=ffffff&animation=twinkling" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,2,6,12,24&height=140&section=footer&text=Let%27s%20build%20something%20at%20scale&fontSize=22&fontColor=ffffff" alt="footer" />
