@@ -3,18 +3,14 @@
 
 <div align="center">
 
-<a href="https://github.com/lokifergusion9">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&width=850&lines=Agentic+AI+systems+that+ship;Multi-agent+workflows+%C2%B7+MCP+%C2%B7+RAG;LLMs+%C2%B7+LangChain+%C2%B7+RLHF;Data+science+%C2%B7+optimisation+%C2%B7+forecasting+%E2%9C%A8" alt="typing" />
-</a>
+<p><b>IIT Roorkee · Production &amp; Industrial Engineering</b><br/>I build agentic AI systems and data products, and measure whether they actually work.</p>
 
 <p>
-  <a href="https://github.com/lokifergusion9/portfolio-"><img src="https://img.shields.io/badge/%F0%9F%9A%80_PORTFOLIO-F72585?style=for-the-badge&labelColor=1a012b" /></a>
-  <a href="https://github.com/lokifergusion9?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%93%A6_ALL_REPOS-7209B7?style=for-the-badge&labelColor=1a012b" /></a>
-  <a href="https://github.com/lokifergusion9"><img src="https://img.shields.io/badge/GitHub-FF8C00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a012b" /></a>
+  <a href="https://lokifergusion9.github.io/"><img src="https://img.shields.io/badge/%F0%9F%9A%80_PORTFOLIO-F72585?style=for-the-badge&labelColor=1a012b" /></a>
+  <a href="https://www.linkedin.com/in/lokesh-kumar-1768262b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a012b" /></a>
+  <a href="https://lokifergusion9.github.io/assets/Lokesh-Kumar-Resume.pdf"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-7209B7?style=for-the-badge&labelColor=1a012b" /></a>
+  <a href="https://github.com/lokifergusion9?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%93%A6_ALL_REPOS-FF8C00?style=for-the-badge&labelColor=1a012b" /></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=lokifergusion9&label=Profile+views&color=F72585&style=flat-square" />
-<img src="https://img.shields.io/github/followers/lokifergusion9?label=Followers&style=flat-square&color=7209B7" />
 
 </div>
 
@@ -23,11 +19,11 @@
 ```python
 lokesh = AIEngineer(
     name      = "Lokesh Kumar",
-    building  = ["TravelOS — AI operating system for travel agencies",
-                 "MCP financial automation",
-                 "Agentic customer-support & EV tariff optimisation systems"],
-    superpower= "turning LLM agents + data into working products",
-    stack     = ["Python", "PyTorch", "LangChain", "MCP", "RAG", "RLHF"],
+    building  = ["Travel-OS — AI operating system for travel agencies",
+                 "Khata-AI — WhatsApp payments to a Google Sheets ledger (LangGraph + MCP)",
+                 "A human-approved customer-support agent with its own eval platform"],
+    superpower= "turning LLM agents + data into working, measured products",
+    stack     = ["Python", "LangGraph", "MCP", "RAG", "FastAPI", "PyTorch"],
 )
 ```
 
@@ -35,14 +31,14 @@ lokesh = AIEngineer(
 
 | Project | What it does |
 |---|---|
-| **[TravelOS](https://github.com/lokifergusion9/TravelOS)** | AI operating system for travel agencies — multi-tenant CRM, itinerary & creative agents, human-in-the-loop approvals |
-| **[Agentic-AI-Customer-Support-System](https://github.com/lokifergusion9/Agentic-AI-Customer-Support-System)** | Agent-driven customer support pipeline |
-| **[mcp-financial-automation](https://github.com/lokifergusion9/mcp-financial-automation)** | Financial workflow automation over the Model Context Protocol |
-| **[EV-Dynamic-Tariff-Optimization](https://github.com/lokifergusion9/EV-Dynamic-Tariff-Optimization)** | Agentic AI-based dynamic tariff optimisation for EV charging networks |
-| **[RAG_Langchain](https://github.com/lokifergusion9/RAG_Langchain)** | Retrieval-augmented generation with LangChain |
-| **[rlhf](https://github.com/lokifergusion9/rlhf)** | Reinforcement learning from human feedback experiments |
-| **[delivery-network-intelligence](https://github.com/lokifergusion9/delivery-network-intelligence)** | Delivery network analytics |
-| **[decoding-customer-value](https://github.com/lokifergusion9/decoding-customer-value)** | Customer value analysis |
+| **[Khata-AI](https://github.com/lokifergusion9/Khata-AI)** | LangGraph + MCP pipeline that turns WhatsApp payment messages into a Google Sheets ledger. Eval-driven: **94.8% → 100%** held-out field accuracy |
+| **[Travel-OS](https://github.com/lokifergusion9/Travel-OS)** | AI operating system for travel agencies: multi-tenant CRM, itinerary & creative agents, human-in-the-loop approvals |
+| **[Agentic-AI-Customer-Support-System](https://github.com/lokifergusion9/Agentic-AI-Customer-Support-System)** | Support agent where the model proposes and code decides: no refund without human approval, plus an evaluation platform |
+| **[delivery-network-intelligence](https://github.com/lokifergusion9/delivery-network-intelligence)** | Graph-ML ETA model on 144,867 Delhivery shipments: MAE **107 → 32 min**, ranked bottleneck hubs. [Live demo](https://delivery-network-intelligence-bgrkkktakv7jqgvm7msawv.streamlit.app/) |
+| **[EV-dynamic-tariff-optimization](https://github.com/lokifergusion9/EV-dynamic-tariff-optimization)** | Agentic dynamic pricing for EV charging: simulated **+8.2% revenue** and **−22% peak wait** vs flat Rs15/kWh |
+| **[decoding-customer-value](https://github.com/lokifergusion9/decoding-customer-value)** | SQL + Power BI segmentation of 3,900 D2C customers; **43%** of revenue is promo-reliant, with a promo-sunset plan |
+| **[rlhf](https://github.com/lokifergusion9/rlhf)** | SFT → reward model → PPO on Qwen2.5-0.5B with TRL; PPO beats SFT in 57.7% of reward-model comparisons, with an audit of its failure modes |
+| **[RAG_Langchain](https://github.com/lokifergusion9/RAG_Langchain)** | RAG over PDFs with LangChain, evaluated with Giskard |
 
 ## 🛠️ Arsenal
 
@@ -57,7 +53,6 @@ lokesh = AIEngineer(
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
@@ -71,6 +66,7 @@ lokesh = AIEngineer(
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-7209B7?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/RLHF-F72585?style=flat-square&logo=openai&logoColor=white" />
@@ -79,33 +75,24 @@ lokesh = AIEngineer(
 **Backend / MLOps / Cloud**
 
 <p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
 **Data Stores**
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square&logo=databricks&logoColor=white" />
 </p>
-
-## 📊 GitHub in numbers
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=lokifergusion9&hide_border=true&theme=synthwave&stroke=F72585&ring=FF8C00&fire=FF8C00&currStreakLabel=F72585" alt="streak" />
-
-</div>
 
 ## 🏔️ Beyond Code
 
