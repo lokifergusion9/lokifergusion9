@@ -34,72 +34,16 @@ I start from the customer's business problem, then build, deploy and measure the
 
 ## 🌌 Featured projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/lokifergusion9/cpg-partner-agents">CPG Partner Agents</a></h4>
-      <p>Finds CPG partners, verifies contacts against source pages and drafts outreach.</p>
-      <p><b>A human approves every send</b></p>
-      <sub><a href="https://github.com/lokifergusion9/cpg-partner-agents">code</a></sub>
-      <br/><br/>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/lokifergusion9/Travel-OS">TravelOS</a></h4>
-      <p>4 LangGraph agents draft trips, creatives, deals and follow-ups for travel agencies.</p>
-      <p><b>Humans approve every send · Postgres RLS tenant isolation</b></p>
-      <sub><a href="https://github.com/lokifergusion9/Travel-OS">code</a> · <a href="https://lokifergusion9.github.io/project-travelos.html">case file</a></sub>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/lokifergusion9/RefundGuard-Agentic-Customer-Support-with-LLM-Evaluation">RefundGuard</a></h4>
-      <p>Support agent where the model proposes and code decides. No refund without approval.</p>
-      <p><b>0 duplicate refunds in 248 fault-injected runs</b></p>
-      <sub><a href="https://github.com/lokifergusion9/RefundGuard-Agentic-Customer-Support-with-LLM-Evaluation">code</a> · <a href="https://refundguard-z5ni.onrender.com/demo">live demo</a> · <a href="https://lokifergusion9.github.io/project-refundguard.html">case file</a></sub>
-      <br/><br/>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/lokifergusion9/Khata-AI">KhataAI</a></h4>
-      <p>Turns WhatsApp payment chats into a Google Sheets ledger every 30 minutes.</p>
-      <p><b>Held-out accuracy 94.8% → 100%</b></p>
-      <sub><a href="https://github.com/lokifergusion9/Khata-AI">code</a> · <a href="https://mcp-financial-automation-37ajappgn996heqhqhrsq4h.streamlit.app/">live demo</a> · <a href="https://lokifergusion9.github.io/project-khataai.html">case file</a></sub>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/lokifergusion9/Banking-Support-Agent">SecureBank</a></h4>
-      <p>Multi-agent banking support with PII masking and re-ranked RAG on bank PDFs.</p>
-      <p><b>28/28 end-to-end evals</b></p>
-      <sub><a href="https://github.com/lokifergusion9/Banking-Support-Agent">code</a> · <a href="https://lokifergusion9.github.io/project-securebank.html">case file</a></sub>
-      <br/><br/>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/lokifergusion9/EV-dynamic-tariff-optimization">EV Dynamic Tariff</a></h4>
-      <p>3 agents forecast demand, set a ₹/kWh tariff and self-tune.</p>
-      <p><b>+8.2% revenue, −22% peak wait (simulated)</b></p>
-      <sub><a href="https://github.com/lokifergusion9/EV-dynamic-tariff-optimization">code</a> · <a href="https://lokifergusion9.github.io/project-ev-tariff.html">case file</a></sub>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/lokifergusion9/delivery-network-intelligence">Delhivery ETA Graph</a></h4>
-      <p>Models 144K shipment scans as a 1,657-hub graph for LightGBM.</p>
-      <p><b>ETA error −70% (107 → 32 min MAE)</b></p>
-      <sub><a href="https://github.com/lokifergusion9/delivery-network-intelligence">code</a> · <a href="https://delivery-network-intelligence-sjdj5m77kgdkvbmgqhy9yo.streamlit.app/">live demo</a> · <a href="https://lokifergusion9.github.io/project-eta-graph.html">case file</a></sub>
-      <br/><br/>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/lokifergusion9/decoding-customer-value">Decoding Customer Value</a></h4>
-      <p>SQL segmentation of 3,900 D2C customers into 5 loyalty tiers.</p>
-      <p><b>43% of revenue is promo-reliant</b></p>
-      <sub><a href="https://github.com/lokifergusion9/decoding-customer-value">code</a> · <a href="https://lokifergusion9.github.io/decoding-customer-value/founder_dashboard.html">dashboard</a> · <a href="https://lokifergusion9.github.io/project-customer-value.html">case file</a></sub>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+| Project | What it does | Result |
+|---|---|---|
+| **[CPG Partner Agents](https://github.com/lokifergusion9/cpg-partner-agents)**<br><sub>[code](https://github.com/lokifergusion9/cpg-partner-agents)</sub> | Finds CPG partners, verifies contacts against source pages and drafts outreach. | A human approves every send |
+| **[TravelOS](https://github.com/lokifergusion9/Travel-OS)**<br><sub>[code](https://github.com/lokifergusion9/Travel-OS) · [case file](https://lokifergusion9.github.io/project-travelos.html)</sub> | 4 LangGraph agents draft trips, creatives, deals and follow-ups for travel agencies. | Human approval on every send; Postgres RLS tenant isolation |
+| **[RefundGuard](https://github.com/lokifergusion9/RefundGuard-Agentic-Customer-Support-with-LLM-Evaluation)**<br><sub>[code](https://github.com/lokifergusion9/RefundGuard-Agentic-Customer-Support-with-LLM-Evaluation) · [demo](https://refundguard-z5ni.onrender.com/demo) · [case file](https://lokifergusion9.github.io/project-refundguard.html)</sub> | Support agent where the model proposes and code decides. No refund without approval. | **0 duplicate refunds** in 248 fault-injected runs |
+| **[KhataAI](https://github.com/lokifergusion9/Khata-AI)**<br><sub>[code](https://github.com/lokifergusion9/Khata-AI) · [demo](https://mcp-financial-automation-37ajappgn996heqhqhrsq4h.streamlit.app/) · [case file](https://lokifergusion9.github.io/project-khataai.html)</sub> | Turns WhatsApp payment chats into a Google Sheets ledger every 30 minutes. | Held-out accuracy **94.8% → 100%** |
+| **[SecureBank](https://github.com/lokifergusion9/Banking-Support-Agent)**<br><sub>[code](https://github.com/lokifergusion9/Banking-Support-Agent) · [case file](https://lokifergusion9.github.io/project-securebank.html)</sub> | Multi-agent banking support with PII masking and re-ranked RAG on bank PDFs. | **28/28** end-to-end evals |
+| **[EV Dynamic Tariff](https://github.com/lokifergusion9/EV-dynamic-tariff-optimization)**<br><sub>[code](https://github.com/lokifergusion9/EV-dynamic-tariff-optimization) · [case file](https://lokifergusion9.github.io/project-ev-tariff.html)</sub> | 3 agents forecast demand, set a ₹/kWh tariff and self-tune. | **+8.2% revenue**, **−22% peak wait** (simulated) |
+| **[Delhivery ETA Graph](https://github.com/lokifergusion9/delivery-network-intelligence)**<br><sub>[code](https://github.com/lokifergusion9/delivery-network-intelligence) · [demo](https://delivery-network-intelligence-sjdj5m77kgdkvbmgqhy9yo.streamlit.app/) · [case file](https://lokifergusion9.github.io/project-eta-graph.html)</sub> | Models 144K shipment scans as a 1,657-hub graph for LightGBM. | ETA error **−70%** (107 → 32 min MAE) |
+| **[Decoding Customer Value](https://github.com/lokifergusion9/decoding-customer-value)**<br><sub>[code](https://github.com/lokifergusion9/decoding-customer-value) · [dashboard](https://lokifergusion9.github.io/decoding-customer-value/founder_dashboard.html) · [case file](https://lokifergusion9.github.io/project-customer-value.html)</sub> | SQL segmentation of 3,900 D2C customers into 5 loyalty tiers. | **43% of revenue** is promo-reliant |
 
 ## 🛠️ Arsenal
 
