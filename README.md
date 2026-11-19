@@ -29,16 +29,15 @@ lokesh = AIEngineer(
 
 ## 🌌 Featured projects
 
-| Project | What it does |
+| Project | How it works |
 |---|---|
-| **[Khata-AI](https://github.com/lokifergusion9/Khata-AI)** | LangGraph + MCP pipeline that turns WhatsApp payment messages into a Google Sheets ledger. Eval-driven: **94.8% → 100%** held-out field accuracy |
-| **[Travel-OS](https://github.com/lokifergusion9/Travel-OS)** | AI operating system for travel agencies: multi-tenant CRM, itinerary & creative agents, human-in-the-loop approvals |
-| **[Agentic-AI-Customer-Support-System](https://github.com/lokifergusion9/Agentic-AI-Customer-Support-System)** | Support agent where the model proposes and code decides: no refund without human approval, plus an evaluation platform |
-| **[delivery-network-intelligence](https://github.com/lokifergusion9/delivery-network-intelligence)** | Graph-ML ETA model on 144,867 Delhivery shipments: MAE **107 → 32 min**, ranked bottleneck hubs. [Live demo](https://delivery-network-intelligence-sjdj5m77kgdkvbmgqhy9yo.streamlit.app/) |
-| **[EV-dynamic-tariff-optimization](https://github.com/lokifergusion9/EV-dynamic-tariff-optimization)** | Agentic dynamic pricing for EV charging: simulated **+8.2% revenue** and **−22% peak wait** vs flat Rs15/kWh |
-| **[decoding-customer-value](https://github.com/lokifergusion9/decoding-customer-value)** | SQL + Power BI segmentation of 3,900 D2C customers; **43%** of revenue is promo-reliant, with a promo-sunset plan |
-| **[rlhf](https://github.com/lokifergusion9/rlhf)** | SFT → reward model → PPO on Qwen2.5-0.5B with TRL; PPO beats SFT in 57.7% of reward-model comparisons, with an audit of its failure modes |
-| **[RAG_Langchain](https://github.com/lokifergusion9/RAG_Langchain)** | RAG over PDFs with LangChain, evaluated with Giskard |
+| **[TravelOS](https://github.com/lokifergusion9/Travel-OS)**<br><sub>[case file](https://lokifergusion9.github.io/project-travelos.html)</sub> | Multi-tenant AI CRM where 4 LangGraph agents draft itineraries, creatives, vendor deals and follow-ups.<br>Nothing goes out until a human approves; tenant data is isolated with PostgreSQL Row-Level Security. |
+| **[KhataAI](https://github.com/lokifergusion9/Khata-AI)**<br><sub>[live demo](https://mcp-financial-automation-37ajappgn996heqhqhrsq4h.streamlit.app/) · [case file](https://lokifergusion9.github.io/project-khataai.html)</sub> | A LangGraph + MCP pipeline reads WhatsApp payment chats every 30 min and writes a Google Sheets ledger.<br>A 92-message Hinglish eval drove prompt fixes: held-out field accuracy **94.8% → 100%**, no duplicate rows. |
+| **[Delhivery ETA Graph](https://github.com/lokifergusion9/delivery-network-intelligence)**<br><sub>[live demo](https://delivery-network-intelligence-sjdj5m77kgdkvbmgqhy9yo.streamlit.app/) · [case file](https://lokifergusion9.github.io/project-eta-graph.html)</sub> | Treats 144,867 shipment scans as a graph of 1,657 hubs and feeds node2vec + centrality features to LightGBM.<br>ETA error drops **70%** vs. the OSRM routing engine (107 → 32 min), and hubs are ranked by bottleneck risk. |
+| **[Decoding Customer Value](https://github.com/lokifergusion9/decoding-customer-value)**<br><sub>[dashboard](https://lokifergusion9.github.io/decoding-customer-value/founder_dashboard.html) · [case file](https://lokifergusion9.github.io/project-customer-value.html)</sub> | Segments 3,900 unlabeled D2C customers into 5 loyalty tiers with SQL CTEs, window functions and pandas.<br>Shows discounts drive no extra spend, so **43% of revenue** is promo-reliant; ends in a promo-sunset plan. |
+| **[RefundGuard](https://github.com/lokifergusion9/RefundGuard-Agentic-Customer-Support-with-LLM-Evaluation)**<br><sub>[live demo](https://refundguard-z5ni.onrender.com/demo) · [case file](https://lokifergusion9.github.io/project-refundguard.html)</sub> | A support agent where the model proposes and code decides: no refund without a human-approved proposal.<br>An eval platform with 50 tasks and injected faults scores business state: **0 duplicate refunds** in 248 runs. |
+| **[SecureBank](https://github.com/lokifergusion9/Banking-Support-Agent)**<br><sub>[case file](https://lokifergusion9.github.io/project-securebank.html)</sub> | A router sends each banking message to an FAQ, account, card or escalation agent, with PII masked first.<br>Policy answers come from re-ranked retrieval over bank PDFs: **28/28** end-to-end evals, 94% hit@4. |
+| **[EV Dynamic Tariff](https://github.com/lokifergusion9/EV-dynamic-tariff-optimization)**<br><sub>[case file](https://lokifergusion9.github.io/project-ev-tariff.html)</sub> | Three agents forecast charging demand, set a ₹/kWh surge, hold or discount, and learn from simulated outcomes.<br>On Caltech ACN data the learned policy earns **+8.2% revenue** with **−22% peak wait** vs. a flat tariff (simulated). |
 
 ## 🛠️ Arsenal
 
