@@ -5,6 +5,8 @@
 
 <p><b>IIT Roorkee · Production &amp; Industrial Engineering</b><br/>I build agentic AI systems and data products, and measure whether they actually work.</p>
 
+<p><b>🟢 Open to: AI Engineer · Forward Deployed Engineer · Full-Stack AI Engineer</b></p>
+
 <p>
   <a href="https://lokifergusion9.github.io/"><img src="https://img.shields.io/badge/%F0%9F%9A%80_PORTFOLIO-F72585?style=for-the-badge&labelColor=1a012b" /></a>
   <a href="https://www.linkedin.com/in/lokesh-kumar-1768262b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a012b" /></a>
@@ -24,13 +26,17 @@ lokesh = AIEngineer(
                  "A human-approved customer-support agent with its own eval platform"],
     superpower= "turning LLM agents + data into working, measured products",
     stack     = ["Python", "LangGraph", "MCP", "RAG", "FastAPI", "PyTorch"],
+    open_to   = ["AI Engineer", "Forward Deployed Engineer", "Full-Stack AI Engineer"],
 )
 ```
+
+I start from the customer's business problem, then build, deploy and measure the system: agents with human approval, evals, and real data behind them.
 
 ## 🌌 Featured projects
 
 | Project | How it works |
 |---|---|
+| **[CPG Partner Agents](https://github.com/lokifergusion9/cpg-partner-agents)** | Finds CPG partners, verifies contacts against source pages.<br>Drafts outreach; a human approves every send. |
 | **[TravelOS](https://github.com/lokifergusion9/Travel-OS)**<br><sub>[case file](https://lokifergusion9.github.io/project-travelos.html)</sub> | 4 LangGraph agents draft trips, creatives, deals and follow-ups.<br>Humans approve every send; tenants are isolated with Postgres RLS. |
 | **[KhataAI](https://github.com/lokifergusion9/Khata-AI)**<br><sub>[live demo](https://mcp-financial-automation-37ajappgn996heqhqhrsq4h.streamlit.app/) · [case file](https://lokifergusion9.github.io/project-khataai.html)</sub> | Turns WhatsApp payment chats into a Sheets ledger every 30 min.<br>Eval-driven prompts lifted held-out accuracy **94.8% → 100%**. |
 | **[Delhivery ETA Graph](https://github.com/lokifergusion9/delivery-network-intelligence)**<br><sub>[live demo](https://delivery-network-intelligence-sjdj5m77kgdkvbmgqhy9yo.streamlit.app/) · [case file](https://lokifergusion9.github.io/project-eta-graph.html)</sub> | Models 144K shipment scans as a 1,657-hub graph for LightGBM.<br>Cuts ETA error **70%** vs. OSRM routing (107 → 32 min MAE). |
@@ -69,6 +75,8 @@ lokesh = AIEngineer(
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-7209B7?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/RLHF-F72585?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Evals-Giskard-7209B7?style=flat-square&logoColor=white" />
 </p>
 
 **Backend / MLOps / Cloud**
@@ -91,6 +99,7 @@ lokesh = AIEngineer(
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 ## 🏔️ Beyond Code
